@@ -1,6 +1,6 @@
 # mysqlvault
 
-## Download .apk and .exe from https://mysqlvault.tk
+## Download .apk, .exe from https://mysqlvault.tk
 
 ## General information
 App for managing passwords stored on mysql database.
