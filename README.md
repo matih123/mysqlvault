@@ -1,2 +1,6 @@
-# PasswordKeeper
-App for connecting to mysql database and downloading, showing, entering passwords that are stored on it.
+# mysqlvault
+App for managing passwords stored on mysql database.
+
+In the database passwords are encrypted using SHA256 with salt.
+App decrypts them using provided key after they are downloaded.
+
