@@ -3,7 +3,7 @@
 ## Download .apk, .exe from https://mysqlvault.tk
 
 ## General information
-App for managing passwords stored on mysql database.
+App made in kivy for managing passwords stored on mysql database.
 
 In the database passwords are encrypted using SHA256 with salt.
 App decrypts them using provided key after they are downloaded.
