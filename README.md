@@ -11,5 +11,5 @@ App decrypts them using provided key after they are downloaded.
 You can create your own database with all needed tables using database.py python script.
 
 ## Overview
-![app overview image](img/overview.jpg?raw=true "Title")
+![app overview image](img/overview.png?raw=true "Title")
 
