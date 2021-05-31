@@ -1,4 +1,5 @@
 # mysqlvault
+Available on android and windows.
 
 ## Download .apk, .exe from https://mysqlvault.tk
 
