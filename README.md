@@ -1,7 +1,8 @@
 # mysqlvault
 Available on android (> 4.0) and windows.
 
-## Download .apk, packed .exe and installer .exe from https://mega.nz/folder/UV0VRIpI#Y3vjnhGiVdYkf10KTvLY1Q
+## Download .apk, packed .exe and installer .exe from 
+https://mega.nz/folder/UV0VRIpI#Y3vjnhGiVdYkf10KTvLY1Q
 
 ## General information
 App made in python kivy for managing passwords stored on mysql database.
