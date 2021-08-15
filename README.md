@@ -5,17 +5,13 @@ Available on android (> 4.0) and windows.
 https://mega.nz/folder/UV0VRIpI#Y3vjnhGiVdYkf10KTvLY1Q
 
 ## Demo account
-You can login to already existing database with these credentials:
+You can login to already existing database with these credentials
 
-mysql.hojda.pl
-
-3306
-
-demo_user
-
-password
-
-password
+| Database address    | mysql.hojda.pl |
+| Database port       | 3306           |
+| Database login      | demo_user      |
+| Database password   | password       |
+| Encryption password | password       |
 
 
 ## General information
