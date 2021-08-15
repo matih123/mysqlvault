@@ -5,7 +5,7 @@ Available on android (> 4.0) and windows.
 https://mega.nz/folder/UV0VRIpI#Y3vjnhGiVdYkf10KTvLY1Q
 
 ## Demo account
-You can login to already existing database with these credentials
+You can login to already existing database with these credentials:
 
 | Database address    | mysql.hojda.pl |
 |:------------------- |:-------------- |
