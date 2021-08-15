@@ -8,7 +8,7 @@ https://mega.nz/folder/UV0VRIpI#Y3vjnhGiVdYkf10KTvLY1Q
 You can login to already existing database with these credentials
 
 | Database address    | mysql.hojda.pl |
-| ------------------- | -------------- |
+|:------------------- |:-------------- |
 | Database port       | 3306           |
 | Database login      | demo_user      |
 | Database password   | password       |
