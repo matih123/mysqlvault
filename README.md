@@ -4,6 +4,14 @@ Available on android (> 4.0) and windows.
 ## Download .apk, packed .exe and installer .exe from 
 https://mega.nz/folder/UV0VRIpI#Y3vjnhGiVdYkf10KTvLY1Q
 
+## Demo account
+You can login to already existing database with these credentials:
+mysql.hojda.pl
+3306
+demo_user
+password
+password
+
 ## General information
 App made in python kivy for managing passwords stored on mysql database.
 
