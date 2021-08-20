@@ -15,7 +15,7 @@ You can login to already existing database with these credentials:
 | Encryption password | password       |
 
 ## General information
-App made in python kivy for managing passwords stored on mysql database.
+Cross-platform app made in python kivy for managing passwords stored on mysql database.
 
 In the database passwords are encrypted using PBKDF2 with salt.
 App decrypts them using provided key after they are downloaded.
